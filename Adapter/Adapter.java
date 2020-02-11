@@ -5,10 +5,8 @@
 // 
 // Design Principles
 // Favour the composition over inheritance.
-// 
-// 
-// 
-// 
+// Talk to only your friends
+
 
 class Adapter {
 	public static void main(String[] args) {

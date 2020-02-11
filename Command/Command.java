@@ -1,3 +1,4 @@
+// CommadnPattern -> Encapulating invocation.
 // Defination: The command pattern allows us to decouple the requester of any action from the object that actually perform the action.
 // The received of the request bound to the command (encapsulated in).
 

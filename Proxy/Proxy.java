@@ -1,5 +1,5 @@
 // Proxy controlls the access to object.
-// RemoteProxy & VirtualProxy
+// RemoteProxy & VirtualProxy & protection proxy
 
 class ImageIconProxy implements Icon {
 	ImageIcon imageIcon;

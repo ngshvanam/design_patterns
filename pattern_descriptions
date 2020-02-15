@@ -1,0 +1,30 @@
+Note: Thease are descriptions not definations
+
+Adapter
+	Wrap an object and provides a different interface to it.
+TemplateMethod
+	Subclass desides how to implement steps in an algorithm.
+FactoryMethod
+	Subclass decides which conctrete class to instantiate.
+Singleton
+	Ensures only one object is created.
+Strategy
+	Encapsulate interchangeable behaviours and uses delegation to call methods.
+Composite
+	Clients treat collection of objects and individual objects uniformly.
+State
+	Encapsulate state based behavious and uses delefation to switch between behaviours.
+Iterator
+	Provides a way to traverse over the collection of objects without exposing its implementation.
+Facade
+	Simplifies the interface of a set of calsses.
+Decorator
+	Wraps an object to provide new behaviour.
+AbstractFactory
+	Allows client to create famility of objects without specifying the concrete classes.
+Observer
+	Allows objects to be notified when state changes.
+Proxy
+	Wraps an object to controll it's access.
+Command
+	Encapsulate the request as an object.

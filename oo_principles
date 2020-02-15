@@ -1,0 +1,27 @@
+OO Basics
+---------
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+
+
+OO Principles
+-------------
+Encapsulate what varies.
+Favour composition over inheritance.
+Program to interfaces, Not implementations.
+Strive for loosly coupled design between objects that interact.
+Classes should be open for extention and closed for modifications.
+Dependet on Abstractions. Do not depend on concrete classes.
+Only talk to your friends.
+Don't call us we will call you.
+A class should have only one reason to change.
+
+SOLID in OO Principles
+----------------------
+Single Responsibility
+Open and Close
+Liscov Substitution
+Interface Seggregation
+Dependency Inversion
